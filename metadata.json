@@ -1,0 +1,5 @@
+{
+  "name": "AI Event Finder",
+  "description": "An AI agent that scans social media posts to find relevant events and workshops, then helps you add them to your calendar.",
+  "requestFramePermissions": []
+}
